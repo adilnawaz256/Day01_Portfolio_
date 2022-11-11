@@ -30,6 +30,7 @@ nav ul li{
 nav ul li a{
     color: #1d1d24;
     font-size: 20px;
+    text-decoration: none;
 }
 nav ul li a:hover{
     color:#fd4766;
